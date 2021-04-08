@@ -102,14 +102,6 @@ def perm_checker():
                     exploitroot.append(bin_name[-1])
                     print(colored('[Exploit] is available for {} .\n'.format(perm),'yellow',attrs=['reverse']))
                     continue
-                
-                # Due to so many versions of python conflict may arise that's why creating another condition for python only.
-
-                #if 'python' in bin_name[-1]:
-                    #print(colored('\n[R00T] Found {} .'.format(perm),'red'))
-                    #vulnerable += 1
-                    #exploitroot.append(bin_name[-1])
-                    #print(colored('[Exploit] is available for {} .\n'.format(perm),'yellow',attrs=['reverse']))
                                     
                 # Taking the binary name and matching it with 'normal' list. for eg:- /usr/bin/exim4 in bin_name[-1] is exim4.
                 
