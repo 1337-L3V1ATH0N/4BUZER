@@ -3,7 +3,7 @@
 import time
 from termcolor import colored
 import os
-os.system('clear')
+os.system('clear -x')
 time.sleep(0.5)
 
 print(colored('''
