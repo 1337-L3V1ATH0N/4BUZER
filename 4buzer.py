@@ -50,7 +50,7 @@ vuln = ['ash','bash','capsh','chmod','chroot',
 ###### Locations for searching Mis-Configured Binaries. If You are 'root' and want to search SUID binaries in system then you can add more / folders here. 
 
 locations = ['/bin','/dev','/lib/x86_64-linux-gnu/','/lib64',
-        '/libx324','/mnt','/opt','/sbin','/usr/bin','/usr/sbin']
+        '/libx32','/mnt','/opt','/sbin','/usr/bin','/usr/sbin']
 
 ###### This Binaries are set to be SUID BIT and Mis-Configured to 'read/write/download/upload' .
 
