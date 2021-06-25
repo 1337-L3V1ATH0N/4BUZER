@@ -578,7 +578,7 @@ def main():
     '''
     
     If any binaries doesn\'t provide expected output then it is probably because of the updated version of binaries.
-    For eg:- 1.30.* never provides expected output. But this script will work properly on lower version of busybox.
+    For eg:- BUSYBOX 1.30.* never provides expected output. But this script will work properly on lower version of busybox.
 
     '''
     #####
