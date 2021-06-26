@@ -26,14 +26,16 @@ normal = ['exim4','mount.nfs','pppd','mount.cifs','pkexec',
         'kismet_cap_linux_wifi','kismet_cap_nrf_mousejack','umount','ssh-keysign','Xorg.wrap']
 
 ###### Vulnerable Binaries which are Vulnerable and Suspicious. You can add new Vulnerable Binaries here.
-
-ld_2 = '' # Searching for ld-2 binaries in lib folder the version may vary on different system. This logic works for every system ld-2 binary.
+######
+# NOTE:- If you have ld-2.*.so uncomment line 32 and 36 by removing """ & """. And add ld_2 in vuln list "ld_2," in this way.
+######
+"""ld_2 = '' # Searching for ld-2 binaries in lib folder the version may vary on different system. This logic works for every system ld-2 binary.
 try:
     for ld in os.listdir('/lib/x86_64-linux-gnu/'):
         if 'ld-2.3' in ld:
             ld_2 = ld
 except:
-    ld_2 = None
+    ld_2 = None"""
 
 # IF YOU HAVE LUA INSTALLED THEN REMOVE. 
 '''#THIS
@@ -53,7 +55,7 @@ vuln = ['ash','bash','capsh','chmod','chroot',
         'docker','emacs-gtk','env','expect','find',
         'flock','gdb','gimp-2.10','gtester','hping3',
         'ionice','ip','jjs','jrunscript','ksh93',
-        ld_2,'logsave','make','nice','node',
+        'logsave','make','nice','node',
         'nohup','openvpn','perl','php7.4','python',
         'rlwrap','rsync','run-parts','rview','vim.gtk3','setarch','start-stop-daemon',
         'stdbuf','strace','systemctl','taskset','tclsh8.6','time',
