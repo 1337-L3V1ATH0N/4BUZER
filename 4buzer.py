@@ -62,7 +62,7 @@ vuln = ['ash','bash','capsh','chmod','chroot',
 ###### Locations for searching Mis-Configured Binaries. If You are 'root' and want to search SUID binaries in system then you can add more / folders here. 
 
 locations = ['/bin','/dev','/lib/x86_64-linux-gnu/','/lib64',
-        '/libx32','/mnt','/opt','/sbin','/usr/bin','/usr/sbin']
+        '/libx32','/mnt','/opt','/sbin','/usr/bin','/usr/sbin','/lib','/lib32']
 
 ###### This Binaries are set to be SUID BIT and Mis-Configured to 'read/write/download/upload' .
 
@@ -136,8 +136,9 @@ def perm_checker():
                 print(colored('\n[R00T] Found {} .'.format(perm),'red'))
                 vulnerable += 1
                 exploitroot.append(bin_name[-1])
-                print(colored('[ Hack ] is available for {} .\n'.format(perm),'yellow',attrs=['reverse']))
-                                
+                print(colored('[ Hack ] is available for {} .'.format(perm),'yellow',attrs=['reverse']))
+		print()
+		
                 # Taking the binary name and matching it with 'normal' list. for eg:- /usr/bin/exim4 in bin_name[-1] is exim4.
                 
             if bin_name[-1] in normal:
