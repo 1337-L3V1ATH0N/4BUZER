@@ -136,8 +136,7 @@ def perm_checker():
                 print(colored('\n[R00T] Found {} .'.format(perm),'red'))
                 vulnerable += 1
                 exploitroot.append(bin_name[-1])
-                print(colored('[ Hack ] is available for {} .'.format(perm),'yellow',attrs=['reverse']))
-		print()
+                print(colored('[ Hack ] is available for {} .\n'.format(perm),'yellow',attrs=['reverse']))
 		
                 # Taking the binary name and matching it with 'normal' list. for eg:- /usr/bin/exim4 in bin_name[-1] is exim4.
                 
