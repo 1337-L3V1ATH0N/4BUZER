@@ -1,5 +1,6 @@
 # 4BUZER Installation
 
+- cd 4BUZER 
 - python3 install-4buzer.py
 - Note that you are in 4BUZER directory
 - ./4buzer.py that's it.
