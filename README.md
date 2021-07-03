@@ -17,5 +17,5 @@
 
 - Thank You John for your wonderful tutorials that let me learn suid abusing and making this tool to automate that task.
 
-################ If You have found out any issues please try to reachme on l3v1ath0nattacker07@gmail.com ####################
+###### If You have found out any issues please try to reachme on l3v1ath0nattacker07@gmail.com ######
 
