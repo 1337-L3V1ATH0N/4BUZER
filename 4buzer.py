@@ -27,7 +27,7 @@ normal = ['exim4','mount.nfs','pppd','mount.cifs','pkexec',
 
 ###### Vulnerable Binaries which are Vulnerable and Suspicious. You can add new Vulnerable Binaries here.
 ######
-# NOTE:- If you have ld-2.*.so uncomment line 32 and 36 by removing """ & """. And add ld_2 in vuln list "ld_2," in this way.
+# Note:- If you have ld-2.*.so uncomment line 32 and 36 by removing """ & """. And add ld_2 in vuln list "ld_2," in this way.
 ######
 """ld_2 = '' # Searching for ld-2 binaries in lib folder the version may vary on different system. This logic works for every system ld-2 binary.
 try:
