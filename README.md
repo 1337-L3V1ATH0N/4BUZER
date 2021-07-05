@@ -26,7 +26,7 @@
   - Use chmod +s /bin/systemctl
   - Then run 4buzer.py with ./4buzer.py
   - And next you don't have to do anything 4buzer will do it for you as you instruct.
-###### If You have found out any issues please try to reachme on l3v1ath0nattacker07@gmail.com ######
+###### If You have found out any issues please try to reachme out on l3v1ath0nattacker07@gmail.com ######
 
 
 
