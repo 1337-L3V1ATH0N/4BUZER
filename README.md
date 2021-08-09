@@ -17,11 +17,6 @@
 - Credits to Tryhackme for teaching this Suid Bit abusing techniques.
 - https://www.tryhackme.com/
 
-# John Hammond
-
-- Thank You John for your wonderful tutorials that let me learn suid abusing and making this tool to automate that task.
-- You can get this guy on youtube very famous ;-)
-
 # How to get most of from -4buzer ?
 
 - If you are new to -4buzer and don't know how this works >
