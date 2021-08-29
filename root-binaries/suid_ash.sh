@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-ash -p
+dash -p
