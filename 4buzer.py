@@ -8,7 +8,6 @@ import time
 #                                                                                                                   #
 # Author : Akash Pandey a.k.a L3V1ATH0N                                                                             #
 # Date :   05/04/2021                                                                                               #
-# Message to Script Kiddies : Remember Changing Author Name will never make you 1337. Appreciate someone's hardwork.#
 # Tool For : Anyone who is interested in Security or wants to test their binaries.                                  #
 # Benefits : Merged all legit abusing lines from gtfobins and automated them. Did hardwork for smart work.          #
 # Helping Hands - GTFOBINS https://gtfobins.github.io/   - Project is on hold due to other open source projects.    #
