@@ -25,5 +25,10 @@
   - And next you don't have to do anything 4buzer will do it for you as you instruct.
 ###### If You have found out any issues please try to reachme out on contactme.akash.pandey@gmail.com ######
 
+# Demo:
+
+https://github.com/1337-L3V1ATH0N/4BUZER/assets/75413146/5fba05ea-81c0-4661-9c98-639981ba43be
+
+
 
 
