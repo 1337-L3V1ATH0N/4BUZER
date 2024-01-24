@@ -1,5 +1,9 @@
 ![4buzer-banner](https://user-images.githubusercontent.com/75413146/126469557-d43843aa-b842-4f6d-951a-8795fcc708e0.png)
 
+# Demo:
+
+https://github.com/1337-L3V1ATH0N/4BUZER/assets/75413146/5fba05ea-81c0-4661-9c98-639981ba43be
+
 # 4BUZER Installation
 
 - cd 4BUZER 
@@ -24,10 +28,6 @@
   - Then run 4buzer.py with ./4buzer.py
   - And next you don't have to do anything 4buzer will do it for you as you instruct.
 ###### If You have found out any issues please try to reachme out on contactme.akash.pandey@gmail.com ######
-
-# Demo:
-
-https://github.com/1337-L3V1ATH0N/4BUZER/assets/75413146/5fba05ea-81c0-4661-9c98-639981ba43be
 
 
 
