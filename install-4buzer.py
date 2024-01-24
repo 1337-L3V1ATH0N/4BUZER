@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import subprocess
 # from termcolor import colored #Uncomment this line if you have 4buzer installed.
+# termcolor is required 
 import os
 import time
 
