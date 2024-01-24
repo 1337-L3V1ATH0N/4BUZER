@@ -4,7 +4,7 @@ import time
 from termcolor import colored
 import os
 os.system('clear -x')
-time.sleep(0.5)
+time.sleep(0.3)
 
 print(colored('''
 \t--#--#--#--#--#--#--#--#--#--#--#--#--#--#--#--#  S-U-I-D B-I-T E-X-P-L-O-I-T-E-R  #--#--#--#--#--#--#--#--#--#--#--#--#--#--#--#--
